@@ -4,7 +4,9 @@
 
 # Background info
 
-Su: senior in the Molecular Biology and Genetics Department
+Su: senior in the Molecular Biology and Genetics Department. 
+  
+  
 Adam: Head of DevOps, Cloud, AI and Data. 
   
 
