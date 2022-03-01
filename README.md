@@ -4,8 +4,8 @@
 
 # Background info
 
-senior in the Molecular Biology and Genetics Department
-
+Su: senior in the Molecular Biology and Genetics Department
+Adam: Head of DevOps, Cloud, AI and Data. 
   
 
 main goal is to be able to produce new intelligent technologies to help people who are suffering from mental health disorders
