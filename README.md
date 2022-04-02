@@ -2,6 +2,12 @@
 
 ![](https://positivepsychology.com/wp-content/uploads/2021/02/Artificial-Intelligence-in-Psychology.jpg)
 
+
+# Contents 
+
+![](Background-info)
+![](Related-Works)
+
 # Background info
 
 Su: senior in the Molecular Biology and Genetics Department. 
@@ -64,3 +70,9 @@ Build out the AI/ML detection functionality
 3. Capture audio with python
 4. capture video with python
 5. build out AI codebase (neural nets, tradionals)
+
+
+
+# Related-Works
+  
+![Emotion Detection Oscars example](https://www.linkedin.com/feed/update/urn:li:activity:6914720455379558400/)
