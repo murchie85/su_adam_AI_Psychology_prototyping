@@ -18,17 +18,6 @@ Adam: Head of DevOps, Cloud, AI and Data.
 
 main goal is to be able to produce new intelligent technologies to help people who are suffering from mental health disorders
 
-  
-
-
-```shell
-cd mydirectory
-mkdir newfolder
-
-git add .
-git commit -m 
-
-``` 
 
   
 
