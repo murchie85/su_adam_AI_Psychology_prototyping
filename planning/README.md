@@ -25,4 +25,14 @@ We need to build profiles and historical categorisations (via ml training).
 We will need to get contacts in mental health 
 
 We should give confidence ratings of diagnises
+  
+    
+## Interaction Manager 
 
+People with Depression & anxiety struggle at keeping in touch with friends and family.
+
+This causes them more anxiety because they dont' have the energy to reply to everyone.  
+  
+Assistant: Picks up email, social media tasks 'Sorry, Adam isn't feeling too good at the moment - he will get back to you soon. Thanks for messaging me!`  
+  
+So the idea is `The AI helps take the social load of the individual` 
